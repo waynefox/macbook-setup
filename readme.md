@@ -35,6 +35,7 @@ for quick install and reference
   - Quokka js
   - Tailwind CSS IntelliSense
   - Vetur
+  - Kite
 - Install Amphetamine
 - Install Github Desktop - https://desktop.github.com/
 - Install Creative Cloud - https://www.adobe.com/uk/creativecloud/desktop-app.html

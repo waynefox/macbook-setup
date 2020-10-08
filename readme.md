@@ -47,3 +47,4 @@ for quick install and reference
 - Install VLC Player
 - Install Davinci Resolve
 - Install OBS
+- Install Kite

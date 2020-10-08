@@ -11,7 +11,7 @@ for quick install and reference
   - change appearance to minimal
   - change colors to smooth
   - change keys to Natural Text Editing
-- brew cask install git
+- brew install git
 - brew cask install google-chrome
 - brew cask install firefox-developer-edition
 - brew cask install spectacle - https://www.spectacleapp.com

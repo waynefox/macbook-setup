@@ -43,3 +43,5 @@ for quick install and reference
 - Install Google Drive
 - Install Microsoft Office
 - Install VLC Player
+- Install Davinci Resolve
+- Install OBS

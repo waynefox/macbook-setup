@@ -17,6 +17,7 @@ for quick install and reference
 - brew cask install spectacle - https://www.spectacleapp.com
 - brew cask install alfred - https://www.alfredapp.com
 - install node - https://nodejs.org/en/
+- install Python3 brew install python@3.9
 - brew cask install visual-studio-code
   - Auto Rename Tag
   - Bracket Pair Colorizer

@@ -18,6 +18,7 @@ for quick install and reference
 - brew cask install alfred - https://www.alfredapp.com
 - install node - https://nodejs.org/en/
 - install Python3 brew install python@3.9
+- install gatsby-cli brew install gatsby-cli
 - brew cask install visual-studio-code
   - Auto Rename Tag
   - Bracket Pair Colorizer

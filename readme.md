@@ -8,7 +8,7 @@ for quick install and reference
 - Homebrew /usr/bin/ruby -e "\$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 - brew Update
 - brew cask install iterm2
-  - change appearance to minimal
+  - change **appearance** to minimal
   - change colors to smooth
   - change keys to Natural Text Editing
 - brew install git
@@ -38,13 +38,14 @@ for quick install and reference
   - Tailwind CSS IntelliSense
   - Vetur
   - Kite
-- Install Amphetamine
+- Install Kite Software
+- Install VLC Player
 - Install Github Desktop - https://desktop.github.com/
 - Install Creative Cloud - https://www.adobe.com/uk/creativecloud/desktop-app.html
-- Install Onedrive
-- Install Google Drive
-- Install Microsoft Office
-- Install VLC Player
+- Install Google Drive - https://www.google.com/intl/en_fj/drive/download/
 - Install Davinci Resolve
 - Install OBS
-- Install Kite
+- App Store
+  - Install Amphetamine
+  - Install Onedrive
+  - Install Microsoft Office

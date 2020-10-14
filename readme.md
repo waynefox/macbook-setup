@@ -45,6 +45,7 @@ for quick install and reference
 - Install Google Drive - https://www.google.com/intl/en_fj/drive/download/
 - Install Davinci Resolve
 - Install OBS
+- Install Discord
 - App Store
   - Install Amphetamine
   - Install Onedrive

@@ -22,7 +22,7 @@ for quick install and reference
 - brew cask install visual-studio-code
   - Auto Rename Tag
   - Bracket Pair Colorizer
-  - Cobalt2 Theme Official
+  - Bearded Theme
   - Color Highlight
   - es7 React/Redux/GraphQL/React-Native Snippets
   - Eslint

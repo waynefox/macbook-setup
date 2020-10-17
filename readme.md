@@ -21,18 +21,20 @@ for quick install and reference
 - install gatsby-cli brew install gatsby-cli
 - brew cask install visual-studio-code
   - Auto Rename Tag
-  - Bracket Pair Colorizer
   - Bearded Theme
+  - Better Comments
+  - Bracket Pair Colorizer
   - Color Highlight
   - es7 React/Redux/GraphQL/React-Native Snippets
   - Eslint
   - Git Lens - Git Supercharged
   - Hightlight Matching Tags
+  - Imprt Cost
   - JS JSX Snippets
   - Live sass compiler
   - Markdown all in one
   - Material icon theme
-  - Prettier - code formatter
+  - Prettier - Code Formatter
   - Python
   - Quokka js
   - Tailwind CSS IntelliSense

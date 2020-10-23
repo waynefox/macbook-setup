@@ -14,7 +14,6 @@ for quick install and reference
 - brew install git
 - brew cask install google-chrome
 - brew cask install firefox-developer-edition
-- brew cask install spectacle - https://www.spectacleapp.com
 - brew cask install alfred - https://www.alfredapp.com
 - install node - https://nodejs.org/en/
 - install Python3 brew install python@3.9
